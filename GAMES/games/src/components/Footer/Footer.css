@@ -1,0 +1,20 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #414040;
+    padding: 3rem 0;
+    color: #fff;
+  }
+  
+  .social a {
+    font-size: 3.0em;
+    color: rgb(248, 246, 246);
+    text-decoration: none;
+  }
+  .text2 {
+    color:rgb(192, 196, 199);
+    font-size: 0.7em;
+    align-items: rigth;
+  }
