@@ -1,0 +1,25 @@
+.home {
+  overflow: hidden;
+}
+
+.banner {
+  
+  overflow: hidden;
+}
+.titulo {
+  color: rgb(249, 252, 249);
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.cards__destaque {
+  background-color: #181818;
+  color: rgb(185, 185, 185);
+  display: flex;
+  flex-wrap: wrap;
+  min-height: auto;
+}
+
+.destaque {
+  position: absolute;
+}
